@@ -1,0 +1,7 @@
+name: SmartInvsR
+version: '${version}'
+main: dev.m1n1don.smartinvsr.SmartInvsR
+api-version: 1.18
+authors: [ Minidon ]
+description: GUIを簡単に生成できるライブラリ
+website: https://github.com/M1n1don/SmartInvsR
