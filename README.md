@@ -1,0 +1,2 @@
+# SmartInvsR
+MinecraftプラグインのGUIを簡単に生成できるライブラリ
